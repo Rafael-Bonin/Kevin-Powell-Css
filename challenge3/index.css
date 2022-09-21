@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+button {
+  background-color: #38CFD9;
+  border: none;
+  padding: 1em 3em;
+  border-radius: 30px;
+  margin: 2em 0;
+}
+
+.bg-color {
+  background-color: #23424A;
+  width: 100%;
+}
+
+.container {
+  width: 80%;
+  color: white;
+  margin: 0 auto;
+}
+
+.intro {
+  width: 50%;
+  padding: 3em 0;
+}
